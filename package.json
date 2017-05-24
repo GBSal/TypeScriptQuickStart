@@ -1,0 +1,21 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "TypeScript Quick start",
+  "main": "main.js",
+  "dependencies": {
+    "@types/requirejs": "^2.1.29",
+    "@types/toastr": "^2.1.33",
+    "jquery": "^3.2.1",
+    "requirejs": "^2.3.3",
+    "toastr": "^2.1.2"
+  },
+  "devDependencies": {
+    "toastr": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
